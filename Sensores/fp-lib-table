@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/camsp/Documents/Universidad/Diseño electronico/evse-schemas/Librerias/Library.pretty")(options "")(descr ""))
+  (lib (name "PZEM")(type "KiCad")(uri "${KIPRJMOD}/PZEM.pretty")(options "")(descr ""))
+)
