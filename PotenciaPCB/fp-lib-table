@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Esquemático_UNCargador")(type "KiCad")(uri "C:/Users/SERGIO/Documents/DiseñoPot/Esquem-tico_UNCargador-/Esquemático_UNCargador.pretty")(options "")(descr ""))
+  (lib (name "Convertidor_AC-DC")(type "KiCad")(uri "${KIPRJMOD}/Convertidor_AC-DC.pretty")(options "")(descr ""))
+  (lib (name "ConvertidorAc-DC-Footprint-Loca")(type "KiCad")(uri "${KIPRJMOD}/ConvertidorAc-DC-Footprint-Loca.pretty")(options "")(descr ""))
+)
