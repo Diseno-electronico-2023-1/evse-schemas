@@ -1,6 +1,0 @@
-(sym_lib_table
-  (lib (name "SMAJ14CA")(type "KiCad")(uri "${KIPRJMOD}/symbols-footprints/SMAJ14CA.kicad_sym")(options "")(descr ""))
-  (lib (name "TLV1805QDBVRQ1")(type "KiCad")(uri "${KIPRJMOD}/symbols-footprints/TLV1805QDBVRQ1.kicad_sym")(options "")(descr ""))
-  (lib (name "LM324N")(type "KiCad")(uri "${KIPRJMOD}/symbols-footprints/LM324N.kicad_sym")(options "")(descr ""))
-  (lib (name "PGB1010603")(type "KiCad")(uri "${KIPRJMOD}/symbols-footprints/PGB1010603.kicad_sym")(options "")(descr ""))
-)
