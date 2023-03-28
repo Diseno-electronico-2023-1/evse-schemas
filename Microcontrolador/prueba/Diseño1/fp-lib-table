@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RP2040")(type "KiCad")(uri "C:/Users/ediso/Documents/Diseño/evse-schemas/Librerias/rp2040/RP2040.pretty")(options "")(descr ""))
+)

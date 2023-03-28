@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/ediso/Documents/Diseño/evse-schemas/Librerias/rp2040/KiCAD/2023-03-28_02-36-33/footprints.pretty")(options "")(descr ""))
+  (lib (name "footrp2040")(type "KiCad")(uri "C:/Users/ediso/Documents/Diseño/evse-schemas/Librerias/rp2040/KiCAD/rp2040/footrp2040.pretty")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "C:/Users/ediso/Documents/Diseño/evse-schemas/Librerias/rp2040/RP2040.pretty")(options "")(descr ""))
+)
