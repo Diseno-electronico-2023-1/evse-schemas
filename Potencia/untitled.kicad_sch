@@ -1103,7 +1103,7 @@
   (symbol (lib_id "power:GND") (at 201.93 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00a4f619-524e-4082-a625-47305cc78b7a)
-    (property "Reference" "#PWR?" (at 201.93 134.62 0)
+    (property "Reference" "#PWR037" (at 201.93 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 201.93 133.35 0)
@@ -1119,7 +1119,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
       )
     )
@@ -1154,7 +1154,7 @@
   (symbol (lib_id "power:GND") (at 60.96 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 07a8644d-59d5-4401-89d6-f5838e6fa1a0)
-    (property "Reference" "#PWR?" (at 60.96 114.3 0)
+    (property "Reference" "#PWR027" (at 60.96 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 60.96 113.03 0)
@@ -1170,7 +1170,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR027") (unit 1)
         )
       )
     )
@@ -1205,7 +1205,7 @@
   (symbol (lib_id "Diode:1N5822") (at 201.93 69.85 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0de985e8-bb27-4707-a2c3-f7a4668a7e80)
-    (property "Reference" "D1" (at 204.47 68.2624 90)
+    (property "Reference" "D4" (at 204.47 68.2624 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N5822" (at 204.47 70.8024 90)
@@ -1222,7 +1222,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "D1") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -1231,7 +1231,7 @@
   (symbol (lib_id "power:GND") (at 154.94 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1b69e836-ae90-4770-8136-233aef04a826)
-    (property "Reference" "#PWR?" (at 154.94 82.55 0)
+    (property "Reference" "#PWR030" (at 154.94 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 81.28 0)
@@ -1247,7 +1247,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR030") (unit 1)
         )
       )
     )
@@ -1256,7 +1256,7 @@
   (symbol (lib_id "power:GND") (at 168.91 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1bd38c6a-e516-4012-acf4-60172ed8a7c1)
-    (property "Reference" "#PWR?" (at 168.91 82.55 0)
+    (property "Reference" "#PWR032" (at 168.91 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 168.91 81.28 0)
@@ -1272,7 +1272,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR032") (unit 1)
         )
       )
     )
@@ -1281,7 +1281,7 @@
   (symbol (lib_id "power:GND") (at 184.15 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1fd2267a-033d-4803-ae6c-071b87d3ee35)
-    (property "Reference" "#PWR?" (at 184.15 134.62 0)
+    (property "Reference" "#PWR035" (at 184.15 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 184.15 133.35 0)
@@ -1297,7 +1297,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
     )
@@ -1306,7 +1306,7 @@
   (symbol (lib_id "power:GND") (at 154.94 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 394903f2-8d92-4b2d-879b-c9216e7fcaa9)
-    (property "Reference" "#PWR?" (at 154.94 134.62 0)
+    (property "Reference" "#PWR031" (at 154.94 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 133.35 0)
@@ -1322,7 +1322,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR031") (unit 1)
         )
       )
     )
@@ -1331,7 +1331,7 @@
   (symbol (lib_id "Device:C") (at 154.94 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3dbb8716-267a-472d-99ea-1211c2610010)
-    (property "Reference" "CIn2" (at 158.75 118.1099 0)
+    (property "Reference" "CIn3" (at 158.75 118.1099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "680u" (at 158.75 120.6499 0)
@@ -1348,7 +1348,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "CIn2") (unit 1)
+          (reference "CIn3") (unit 1)
         )
       )
     )
@@ -1357,7 +1357,7 @@
   (symbol (lib_id "Regulator_Switching:LM2596S-3.3") (at 184.15 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3e50c273-492f-4a4e-a1b3-1702b87932b9)
-    (property "Reference" "U3.3" (at 184.15 50.8 0)
+    (property "Reference" "U3.1" (at 184.15 50.8 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LM2596S-3.3" (at 184.15 53.34 0)
@@ -1377,7 +1377,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "U3.3") (unit 1)
+          (reference "U3.1") (unit 1)
         )
       )
     )
@@ -1386,7 +1386,7 @@
   (symbol (lib_id "power:+3.3V") (at 223.52 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4101ff53-a098-405e-b884-ea633e180533)
-    (property "Reference" "#PWR?" (at 223.52 58.42 0)
+    (property "Reference" "#PWR038" (at 223.52 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 223.52 49.53 0)
@@ -1402,7 +1402,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
       )
     )
@@ -1411,7 +1411,7 @@
   (symbol (lib_id "Device:C_Polarized_US") (at 110.49 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 41ce00f3-7bb5-4329-82ce-dafcf2218b78)
-    (property "Reference" "CIn0" (at 114.3 95.8849 0)
+    (property "Reference" "CIn1" (at 114.3 95.8849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22uF" (at 114.3 98.4249 0)
@@ -1428,7 +1428,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "CIn0") (unit 1)
+          (reference "CIn1") (unit 1)
         )
       )
     )
@@ -1437,7 +1437,7 @@
   (symbol (lib_id "power:GND") (at 201.93 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 42c7ac3d-297c-4543-b991-e108e18a62cf)
-    (property "Reference" "#PWR?" (at 201.93 82.55 0)
+    (property "Reference" "#PWR036" (at 201.93 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 201.93 81.28 0)
@@ -1453,7 +1453,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR036") (unit 1)
         )
       )
     )
@@ -1462,7 +1462,7 @@
   (symbol (lib_id "power:GND") (at 223.52 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 573d62b5-f4e8-4c66-83f6-a16871f99e16)
-    (property "Reference" "#PWR?" (at 223.52 82.55 0)
+    (property "Reference" "#PWR039" (at 223.52 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 223.52 81.28 0)
@@ -1478,7 +1478,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR039") (unit 1)
         )
       )
     )
@@ -1487,7 +1487,7 @@
   (symbol (lib_id "power:GND") (at 168.91 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5c549bba-7813-48da-85ef-f4d8f595d79d)
-    (property "Reference" "#PWR?" (at 168.91 134.62 0)
+    (property "Reference" "#PWR033" (at 168.91 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 168.91 133.35 0)
@@ -1503,7 +1503,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR033") (unit 1)
         )
       )
     )
@@ -1538,7 +1538,7 @@
   (symbol (lib_id "Device:C") (at 154.94 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5cb1725b-6245-4c57-8d5e-31dac48ae340)
-    (property "Reference" "Cin1" (at 158.75 66.0399 0)
+    (property "Reference" "Cin2" (at 158.75 66.0399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "680u" (at 158.75 68.5799 0)
@@ -1555,7 +1555,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "Cin1") (unit 1)
+          (reference "Cin2") (unit 1)
         )
       )
     )
@@ -1579,11 +1579,8 @@
     (pin "1" (uuid f1e00253-6842-4cb8-b4b6-22552eb369f9))
     (instances
       (project "CircuitoPotencia"
-        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/feb4c0c5-ce4e-425e-8293-1d19ea066533"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
     )
@@ -1592,7 +1589,7 @@
   (symbol (lib_id "power:GND") (at 223.52 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 73748757-048f-49d9-ade3-0a0f8e381d54)
-    (property "Reference" "#PWR?" (at 223.52 134.62 0)
+    (property "Reference" "#PWR041" (at 223.52 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 223.52 133.35 0)
@@ -1608,7 +1605,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
       )
     )
@@ -1643,7 +1640,7 @@
   (symbol (lib_id "power:+5V") (at 223.52 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 97e38692-cdb2-4416-bb9d-18c484c78eda)
-    (property "Reference" "#PWR?" (at 223.52 110.49 0)
+    (property "Reference" "#PWR040" (at 223.52 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 223.52 101.6 0)
@@ -1659,7 +1656,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR040") (unit 1)
         )
       )
     )
@@ -1668,7 +1665,7 @@
   (symbol (lib_id "Regulator_Switching:LM2596S-5") (at 184.15 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 98b6c94c-2175-47dc-b4d7-2d2121df3b46)
-    (property "Reference" "U5" (at 184.15 102.87 0)
+    (property "Reference" "U3" (at 184.15 102.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LM2596S-5" (at 184.15 105.41 0)
@@ -1688,7 +1685,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "U5") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -1697,7 +1694,7 @@
   (symbol (lib_id "Diode:1N5822") (at 201.93 121.92 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ae3228df-e67d-4e07-9621-a8893fb5b651)
-    (property "Reference" "D2" (at 204.47 120.3324 90)
+    (property "Reference" "D5" (at 204.47 120.3324 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N5822" (at 204.47 122.8724 90)
@@ -1714,7 +1711,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "D2") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -1723,7 +1720,7 @@
   (symbol (lib_id "power:GND") (at 184.15 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aee3df21-a773-4fab-ada5-15f9ee41a8e3)
-    (property "Reference" "#PWR?" (at 184.15 82.55 0)
+    (property "Reference" "#PWR034" (at 184.15 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 184.15 81.28 0)
@@ -1739,7 +1736,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR034") (unit 1)
         )
       )
     )
@@ -1764,11 +1761,8 @@
     (pin "2" (uuid e14cad67-b744-4fc0-a9f3-925beedc0a3b))
     (instances
       (project "CircuitoPotencia"
-        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/feb4c0c5-ce4e-425e-8293-1d19ea066533"
-          (reference "R?") (unit 1)
-        )
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "R1") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -1777,7 +1771,7 @@
   (symbol (lib_id "Diode:1N4007") (at 91.44 88.9 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bf69d064-1935-4c39-8f7c-2e7b89786be2)
-    (property "Reference" "DIn" (at 91.44 82.55 0)
+    (property "Reference" "DIn1" (at 91.44 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4007" (at 91.44 85.09 0)
@@ -1794,7 +1788,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "DIn") (unit 1)
+          (reference "DIn1") (unit 1)
         )
       )
     )
@@ -1803,7 +1797,7 @@
   (symbol (lib_id "power:+12V") (at 110.49 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ca427ddc-aa26-4b53-9834-b6bade1a7d8e)
-    (property "Reference" "#PWR?" (at 110.49 86.36 0)
+    (property "Reference" "#PWR028" (at 110.49 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 110.49 77.47 0)
@@ -1819,7 +1813,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR028") (unit 1)
         )
       )
     )
@@ -1828,7 +1822,7 @@
   (symbol (lib_id "Jumper:Jumper_3_Open") (at 67.31 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ce39c439-ef25-4f31-aee4-9f51a2ad7f62)
-    (property "Reference" "JP?" (at 67.31 77.47 0)
+    (property "Reference" "JP1" (at 67.31 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Jumper_3_Open" (at 67.31 80.01 0)
@@ -1846,7 +1840,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "JP?") (unit 1)
+          (reference "JP1") (unit 1)
         )
       )
     )
@@ -1855,7 +1849,7 @@
   (symbol (lib_id "power:GND") (at 110.49 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb400c32-5834-4bc1-a47a-d31e1f91f410)
-    (property "Reference" "#PWR?" (at 110.49 114.3 0)
+    (property "Reference" "#PWR029" (at 110.49 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 110.49 113.03 0)
@@ -1871,7 +1865,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR029") (unit 1)
         )
       )
     )
@@ -1895,11 +1889,8 @@
     (pin "1" (uuid 7cd54686-c3ec-432e-9c4e-b65e8623fc17))
     (instances
       (project "CircuitoPotencia"
-        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/feb4c0c5-ce4e-425e-8293-1d19ea066533"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR043") (unit 1)
         )
       )
     )
@@ -1924,11 +1915,8 @@
     (pin "2" (uuid a8cca1b7-bece-416c-8f20-878275ff065a))
     (instances
       (project "CircuitoPotencia"
-        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/feb4c0c5-ce4e-425e-8293-1d19ea066533"
-          (reference "D?") (unit 1)
-        )
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "D3") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )

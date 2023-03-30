@@ -1626,7 +1626,7 @@
   (symbol (lib_id "power:GND") (at 124.46 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00c9a489-c95a-4d96-81eb-7841226aa20d)
-    (property "Reference" "#PWR03" (at 124.46 146.05 0)
+    (property "Reference" "#PWR?" (at 124.46 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 124.46 144.78 0)
@@ -1642,12 +1642,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -1656,7 +1656,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 40.64 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0cdc24b4-8b2d-4030-877f-3d8fa2ba6d3a)
-    (property "Reference" "SW5" (at 40.64 154.94 0)
+    (property "Reference" "SW?" (at 40.64 154.94 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 40.64 157.48 0)
@@ -1673,7 +1673,7 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
@@ -1687,7 +1687,7 @@
   (symbol (lib_id "power:GND") (at 165.1 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0e403a72-c665-42e6-bff1-e7fb277370ee)
-    (property "Reference" "#PWR012" (at 165.1 36.83 0)
+    (property "Reference" "#PWR?" (at 165.1 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 165.1 35.56 0)
@@ -1703,12 +1703,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -1717,7 +1717,7 @@
   (symbol (lib_id "Diode:1N4148") (at 247.65 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1142b418-e848-4c24-b897-1c1dcfe2c368)
-    (property "Reference" "D4" (at 250.19 42.545 90)
+    (property "Reference" "D2" (at 250.19 42.545 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 250.19 45.085 90)
@@ -1740,7 +1740,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "D4") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -1749,7 +1749,7 @@
   (symbol (lib_id "power:GND") (at 157.48 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1454c29b-528c-44c4-a512-139b413e65a1)
-    (property "Reference" "#PWR010" (at 157.48 58.42 0)
+    (property "Reference" "#PWR?" (at 157.48 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 157.48 57.15 0)
@@ -1765,12 +1765,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -1779,7 +1779,7 @@
   (symbol (lib_id "Device:R") (at 229.87 33.02 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1a4c9bb3-e1c5-403d-bb69-c8497f6bcaf6)
-    (property "Reference" "R2" (at 229.87 27.94 90)
+    (property "Reference" "R7" (at 229.87 27.94 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "330" (at 229.87 30.48 90)
@@ -1796,7 +1796,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "R2") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -1805,7 +1805,7 @@
   (symbol (lib_id "power:GND") (at 24.13 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1df867aa-fe5f-4cdb-a628-ccc2091b6d22)
-    (property "Reference" "#PWR014" (at 24.13 90.17 0)
+    (property "Reference" "#PWR?" (at 24.13 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 24.13 88.9 0)
@@ -1821,12 +1821,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
@@ -1835,7 +1835,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 40.64 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1f2ca539-3080-492d-9f9e-dccd06dd0f29)
-    (property "Reference" "SW1" (at 40.64 119.38 0)
+    (property "Reference" "SW?" (at 40.64 119.38 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 40.64 121.92 0)
@@ -1852,7 +1852,7 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
@@ -1866,7 +1866,7 @@
   (symbol (lib_id "power:GND") (at 165.1 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 28bcbf30-9f31-41d2-9a14-2958eb17d697)
-    (property "Reference" "#PWR09" (at 165.1 86.36 0)
+    (property "Reference" "#PWR?" (at 165.1 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 165.1 85.09 0)
@@ -1882,12 +1882,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
     )
@@ -1896,7 +1896,7 @@
   (symbol (lib_id "power:GND") (at 24.13 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 362fdd88-9356-4c5e-8221-8e06bda1907b)
-    (property "Reference" "#PWR07" (at 24.13 77.47 0)
+    (property "Reference" "#PWR?" (at 24.13 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 24.13 76.2 0)
@@ -1912,12 +1912,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
@@ -1926,7 +1926,7 @@
   (symbol (lib_id "power:GND") (at 165.1 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 37190c1f-aa76-4915-a13b-f6fdc79aa3ba)
-    (property "Reference" "#PWR011" (at 165.1 72.39 0)
+    (property "Reference" "#PWR?" (at 165.1 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 165.1 71.12 0)
@@ -1942,12 +1942,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR021") (unit 1)
         )
       )
     )
@@ -1983,7 +1983,7 @@
   (symbol (lib_id "power:GND") (at 247.65 24.13 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 45612d8e-d9bb-4c15-988f-87a4cca47568)
-    (property "Reference" "#PWR011" (at 247.65 17.78 0)
+    (property "Reference" "#PWR?" (at 247.65 17.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 247.65 20.32 0)
@@ -1999,12 +1999,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
     )
@@ -2013,7 +2013,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 40.64 143.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5055e422-f02c-4a7f-8313-899b523c16d8)
-    (property "Reference" "SW3" (at 40.64 137.16 0)
+    (property "Reference" "SW?" (at 40.64 137.16 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 40.64 139.7 0)
@@ -2030,7 +2030,7 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
@@ -2044,7 +2044,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 40.64 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5c2a0531-b744-428f-9369-b2fbbfa3d7a1)
-    (property "Reference" "SW2" (at 40.64 128.27 0)
+    (property "Reference" "SW?" (at 40.64 128.27 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 40.64 130.81 0)
@@ -2061,7 +2061,7 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
@@ -2075,7 +2075,7 @@
   (symbol (lib_id "power:GND") (at 24.13 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 777769ce-c38a-41f1-9664-662282080e5e)
-    (property "Reference" "#PWR04" (at 24.13 38.1 0)
+    (property "Reference" "#PWR?" (at 24.13 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 24.13 36.83 0)
@@ -2091,12 +2091,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -2105,7 +2105,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 40.64 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 79961fb6-9849-4121-a5af-d54d725bb7a6)
-    (property "Reference" "SW4" (at 40.64 146.05 0)
+    (property "Reference" "SW?" (at 40.64 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 40.64 148.59 0)
@@ -2122,7 +2122,7 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
@@ -2136,7 +2136,7 @@
   (symbol (lib_id "power:GND") (at 24.13 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7dd50f3c-1c7c-4f10-9a86-2c0c09ce7195)
-    (property "Reference" "#PWR05" (at 24.13 52.07 0)
+    (property "Reference" "#PWR?" (at 24.13 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 24.13 50.8 0)
@@ -2152,12 +2152,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
@@ -2193,7 +2193,7 @@
   (symbol (lib_name "+5V_1") (lib_id "power:+5V") (at 165.1 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8af9fe6d-edc4-4cda-a9dc-32afb0e7e4c4)
-    (property "Reference" "#PWR013" (at 165.1 60.96 0)
+    (property "Reference" "#PWR?" (at 165.1 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 165.1 53.34 0)
@@ -2209,12 +2209,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR020") (unit 1)
         )
       )
     )
@@ -2223,7 +2223,7 @@
   (symbol (lib_id "power:GND") (at 24.13 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8ff9e921-1f64-44c4-af2a-203b672e1500)
-    (property "Reference" "#PWR06" (at 24.13 66.04 0)
+    (property "Reference" "#PWR?" (at 24.13 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 24.13 64.77 0)
@@ -2239,12 +2239,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -2280,7 +2280,7 @@
   (symbol (lib_id "power:GND") (at 165.1 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a01c7cc8-d9f3-49c3-9998-7144dad1e440)
-    (property "Reference" "#PWR08" (at 165.1 97.79 0)
+    (property "Reference" "#PWR?" (at 165.1 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 165.1 96.52 0)
@@ -2296,12 +2296,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
     )
@@ -2310,7 +2310,7 @@
   (symbol (lib_id "RP2040:SC0915") (at 46.99 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a1f1268e-93ac-4f96-b87d-74ef7b0272a0)
-    (property "Reference" "U1" (at 96.52 17.78 0)
+    (property "Reference" "U?" (at 96.52 17.78 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "SC0915" (at 96.52 20.32 0)
@@ -2378,12 +2378,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "U1") (unit 1)
+          (reference "U?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "U1") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -2392,7 +2392,7 @@
   (symbol (lib_id "power:+3.3V") (at 31.75 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a997760e-df44-45ec-ab26-bb9b45a5cad9)
-    (property "Reference" "#PWR01" (at 31.75 129.54 0)
+    (property "Reference" "#PWR?" (at 31.75 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 31.75 121.92 0)
@@ -2408,12 +2408,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -2422,7 +2422,7 @@
   (symbol (lib_id "power:+3.3V") (at 115.57 143.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ad320883-687b-4438-b96f-e03cfd163cff)
-    (property "Reference" "#PWR02" (at 115.57 147.32 0)
+    (property "Reference" "#PWR?" (at 115.57 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 115.57 139.7 0)
@@ -2438,12 +2438,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -2452,7 +2452,7 @@
   (symbol (lib_id "power:+12V") (at 240.03 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b8ecab8d-8d4b-4f7c-9094-44dabf2cc194)
-    (property "Reference" "#PWR017" (at 240.03 53.34 0)
+    (property "Reference" "#PWR024" (at 240.03 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 240.03 45.72 0)
@@ -2468,7 +2468,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -2477,7 +2477,7 @@
   (symbol (lib_id "power:GND") (at 247.65 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c3b508fa-5f50-4bd0-8a61-08fd3c1bc68e)
-    (property "Reference" "#PWR011" (at 247.65 82.55 0)
+    (property "Reference" "#PWR?" (at 247.65 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 247.65 81.28 0)
@@ -2493,12 +2493,12 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR026") (unit 1)
         )
       )
     )
@@ -2507,7 +2507,7 @@
   (symbol (lib_id "Diode:1N4148") (at 247.65 55.88 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ca2286a2-1e91-46ec-80d7-41c9edbe7514)
-    (property "Reference" "D5" (at 250.19 55.245 90)
+    (property "Reference" "D3" (at 250.19 55.245 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (at 250.19 57.785 90)
@@ -2530,7 +2530,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "D5") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -2539,7 +2539,7 @@
   (symbol (lib_id "Device:R") (at 229.87 66.04 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d9381ed8-e9f2-4f08-af58-7b1b09d3c964)
-    (property "Reference" "R3" (at 229.87 60.96 90)
+    (property "Reference" "R8" (at 229.87 60.96 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "330" (at 229.87 63.5 90)
@@ -2556,7 +2556,7 @@
     (instances
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/27c27843-11c4-470f-a3f9-e81d775d20fc"
-          (reference "R3") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -2565,7 +2565,7 @@
   (symbol (lib_id "Connector:Conn_01x08_Pin") (at 104.14 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e9dae1fb-0be1-414e-9182-2eb69fed3c6c)
-    (property "Reference" "J3" (at 104.775 139.7 0)
+    (property "Reference" "J?" (at 104.775 139.7 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x08_Pin" (at 104.775 142.24 0)
@@ -2588,7 +2588,7 @@
     (instances
       (project "PreliminarPCB"
         (path "/1ef7c57c-2fe6-466c-bcf5-d2e8b1f6c4da"
-          (reference "J3") (unit 1)
+          (reference "J?") (unit 1)
         )
       )
       (project "CircuitoPotencia"
