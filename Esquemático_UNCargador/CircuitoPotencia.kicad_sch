@@ -70,6 +70,23 @@
     )
   )
 
+  (sheet (at 55.88 40.64) (size 43.18 33.02) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bcc2cbe9-78c8-42aa-91d0-1fe918a34d54)
+    (property "Sheetname" "Sensores1" (at 55.88 39.9284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Sensores1.kicad_sch" (at 55.88 74.2446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29" (page "5"))
+      )
+    )
+  )
+
   (sheet (at 139.7 41.91) (size 41.91 29.21) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
