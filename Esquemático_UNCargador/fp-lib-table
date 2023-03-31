@@ -1,5 +1,7 @@
 (fp_lib_table
+  (version 7)
   (lib (name "Esquemático_UNCargador")(type "KiCad")(uri "C:/Users/SERGIO/Documents/DiseñoPot/Esquem-tico_UNCargador-/Esquemático_UNCargador.pretty")(options "")(descr ""))
   (lib (name "Convertidor_AC-DC")(type "KiCad")(uri "${KIPRJMOD}/Convertidor_AC-DC.pretty")(options "")(descr ""))
   (lib (name "ConvertidorAc-DC-Footprint-Loca")(type "KiCad")(uri "${KIPRJMOD}/ConvertidorAc-DC-Footprint-Loca.pretty")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "C:/Users/ediso/Documents/Diseño/evse-schemas/Librerias/rp2040/RP2040.pretty")(options "")(descr ""))
 )
