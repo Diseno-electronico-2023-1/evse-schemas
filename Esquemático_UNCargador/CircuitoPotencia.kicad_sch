@@ -1,0 +1,93 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f64e4c48-29c2-4644-b6e3-d55b9152fc29)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (wire (pts (xy 96.52 134.62) (xy 133.35 134.62))
+    (stroke (width 0) (type default))
+    (uuid 9df54b8e-2ee9-47e9-a383-0333e90f8509)
+  )
+
+  (text "Aquí iría el micro\n" (at 69.85 153.67 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 23eb7a0f-e010-4f71-b8cd-0feeb90f483d)
+  )
+  (text "Esta etapa es la que va entre el PWM que \nviene del microprocesador, lo amplifica y \nregula la salida que irá hacia el auto."
+    (at 133.35 156.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 266c8b69-c9c7-42ff-b88f-df2feea24ff8)
+  )
+  (text "Esta etapa aparece aislada porque\ntodas sus conexiones con los demás\nmódulos son variables globales y\npor eso no aparenta tener I/O"
+    (at 142.24 82.55 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3443ae12-340b-4412-ba0b-9e77fb8a46c2)
+  )
+
+  (sheet (at 58.42 118.11) (size 38.1 27.94) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 27c27843-11c4-470f-a3f9-e81d775d20fc)
+    (property "Sheetname" "Microcontrolador" (at 58.42 117.3984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "micro.kicad_sch" (at 58.42 146.6346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "pilot_PWM" output (at 96.52 134.62 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 73d8f31f-c18e-4237-87e9-9bac164bff98)
+    )
+    (instances
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 133.35 119.38) (size 36.83 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 758fec3f-d66e-4356-8861-1c58650d5bb5)
+    (property "Sheetname" "PWM" (at 133.35 118.6684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PWM.kicad_sch" (at 133.35 145.3646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "Pilot_PWM" input (at 133.35 134.62 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid d909ca58-1b1c-4578-9bac-9de0f38639b5)
+    )
+    (instances
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 139.7 41.91) (size 41.91 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c38372d7-094a-4ec0-82ac-c3a161d378bf)
+    (property "Sheetname" "Potencia2.0" (at 139.7 41.1984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "untitled.kicad_sch" (at 139.7 71.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29" (page "5"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

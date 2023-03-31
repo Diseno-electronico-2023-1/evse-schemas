@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\SERGIO\Documents\DiseñoPot\Esquem-tico_UNCargador-\Esquemático_UNCargador\CircuitoPotencia.kicad_sch</source>
+    <date>23/03/2023 11:23:49 a. m.</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CircuitoPotencia.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Potencia.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/PWM/" tstamps="/758fec3f-d66e-4356-8861-1c58650d5bb5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PWM.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Microcontrolador/" tstamps="/27c27843-11c4-470f-a3f9-e81d775d20fc/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>micro.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>untitled.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>8ba4d822-30de-4885-b3f9-c6276a82d1b9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>f1e868bc-c491-4705-938b-190642de50f9</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>c5e6c785-efe4-496e-8ab3-a02a42409e1d</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>f2daf012-8a72-4f12-a4b5-3e9db731fdfd</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>3c09a617-d933-4670-a033-bf4ed1fa6a5a</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4007</value>
+      <footprint>Diode_SMD:D_SMA_Handsoldering</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>5bc64f2f-c0ec-45ad-bee0-5062f4fec15c</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>Led_ON</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf</datasheet>
+      <libsource lib="LED" part="IR26-21C_L110_TR8" description="940nm, 20 deg, Infrared LED, 1206"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>0f0f51fc-3342-4955-a044-2875afcc4ac6</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper_3_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>d5b4fc69-10f8-4c75-9b83-e3ebecc0c728</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>68</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>fa71bb09-73cd-41db-a7f7-470d5cc386fd</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AMS1117-5.0</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="AMS1117-5.0" description="1A Low Dropout regulator, positive, 5.0V fixed output, SOT-223"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>2cd12a41-c15b-4500-95a5-a9a9281b1eec</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AMS1117-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="AMS1117-3.3" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="Sheetname" value="Potencia"/>
+      <property name="Sheetfile" value="Potencia.kicad_sch"/>
+      <sheetpath names="/Potencia/" tstamps="/feb4c0c5-ce4e-425e-8293-1d19ea066533/"/>
+      <tstamps>0fbc9996-bc97-4cd6-abb3-cadae682193f</tstamps>
+    </comp>
+    <comp ref="CIn0">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>41ce00f3-7bb5-4329-82ce-dafcf2218b78</tstamps>
+    </comp>
+    <comp ref="Cin1">
+      <value>680u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>5cb1725b-6245-4c57-8d5e-31dac48ae340</tstamps>
+    </comp>
+    <comp ref="CIn2">
+      <value>680u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>3dbb8716-267a-472d-99ea-1211c2610010</tstamps>
+    </comp>
+    <comp ref="COut1">
+      <value>220u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>7e9f3266-defd-4a8f-84c2-39b32a4a0ada</tstamps>
+    </comp>
+    <comp ref="COut2">
+      <value>220u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>5c698f61-25b6-4348-bc82-a9fb3f169bbc</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5822</value>
+      <footprint>Diode_THT:D_DO-201AD_P15.24mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88526/1n5820.pdf</datasheet>
+      <libsource lib="Diode" part="1N5822" description="40V 3A Schottky Barrier Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>0de985e8-bb27-4707-a2c3-f7a4668a7e80</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N5822</value>
+      <footprint>Diode_THT:D_DO-201AD_P15.24mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88526/1n5820.pdf</datasheet>
+      <libsource lib="Diode" part="1N5822" description="40V 3A Schottky Barrier Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>ae3228df-e67d-4e07-9621-a8893fb5b651</tstamps>
+    </comp>
+    <comp ref="DIn1">
+      <value>1N4007</value>
+      <footprint>Diode_SMD:D_SMA_Handsoldering</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>bf69d064-1935-4c39-8f7c-2e7b89786be2</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>Jumper_3_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>ce39c439-ef25-4f31-aee4-9f51a2ad7f62</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>33u</value>
+      <footprint>Inductor_SMD:L_Coilcraft_XxL4040</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>0b1b33da-cde2-46d3-9ca0-34047683c955</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>33u</value>
+      <footprint>Inductor_SMD:L_Coilcraft_XxL4040</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>0488dd80-1345-4d6f-9ce7-20aa5eb6dbf6</tstamps>
+    </comp>
+    <comp ref="PS7">
+      <value>HLK-PM01</value>
+      <footprint>Convertidor_AC-DC:AC-DC_Converter</footprint>
+      <datasheet>http://www.hlktech.net/product_detail.php?ProId=54</datasheet>
+      <libsource lib="Converter_ACDC" part="HLK-PM01" description="Compact AC/DC board mount power module 3W 5V"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>2225f2d9-931a-413b-858b-75671bb49ad9</tstamps>
+    </comp>
+    <comp ref="U3.3">
+      <value>LM2596S-3.3</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-5_TabPin3</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2596.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="LM2596S-3.3" description="3.3V 3A Step-Down Voltage Regulator, TO-263"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>3e50c273-492f-4a4e-a1b3-1702b87932b9</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>LM2596S-5</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-5_TabPin3</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2596.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="LM2596S-5" description="5V 3A Step-Down Voltage Regulator, TO-263"/>
+      <property name="Sheetname" value="Potencia2.0"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Potencia2.0/" tstamps="/c38372d7-094a-4ec0-82ac-c3a161d378bf/"/>
+      <tstamps>98b6c94c-2175-47dc-b4d7-2d2121df3b46</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Converter_ACDC" part="HLK-PM01">
+      <description>Compact AC/DC board mount power module 3W 5V</description>
+      <docs>http://www.hlktech.net/product_detail.php?ProId=54</docs>
+      <footprints>
+        <fp>Converter*ACDC*HiLink*HLK?PM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">HLK-PM01</field>
+        <field name="Footprint">Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx</field>
+        <field name="Datasheet">http://www.hlktech.net/product_detail.php?ProId=54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AC/L" type="power_in"/>
+        <pin num="2" name="AC/N" type="power_in"/>
+        <pin num="3" name="-Vout" type="power_out"/>
+        <pin num="4" name="+Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4007">
+      <description>1000V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4007</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5822">
+      <description>40V 3A Schottky Barrier Rectifier Diode, DO-201AD</description>
+      <docs>http://www.vishay.com/docs/88526/1n5820.pdf</docs>
+      <footprints>
+        <fp>D*DO?201AD*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5822</field>
+        <field name="Footprint">Diode_THT:D_DO-201AD_P15.24mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88526/1n5820.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_3_Open">
+      <description>Jumper, 3-pole, both open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*3Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="IR26-21C_L110_TR8">
+      <description>940nm, 20 deg, Infrared LED, 1206</description>
+      <docs>http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf</docs>
+      <footprints>
+        <fp>LED*1206*3216Metric*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">IR26-21C_L110_TR8</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric</field>
+        <field name="Datasheet">http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-3.3">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-5.0">
+      <description>1A Low Dropout regulator, positive, 5.0V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-5.0</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="LM2596S-3.3">
+      <description>3.3V 3A Step-Down Voltage Regulator, TO-263</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2596.pdf</docs>
+      <footprints>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2596S-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-263-5_TabPin3</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2596.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="~{ON}/OFF" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="LM2596S-5">
+      <description>5V 3A Step-Down Voltage Regulator, TO-263</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2596.pdf</docs>
+      <footprints>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2596S-5</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-263-5_TabPin3</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2596.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="~{ON}/OFF" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Converter_ACDC">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Converter_ACDC.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="COut1" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U3.3" pin="4" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="COut2" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U5" pin="4" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="CIn0" pin="1" pintype="passive"/>
+      <node ref="CIn2" pin="1" pintype="passive"/>
+      <node ref="Cin1" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="DIn1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U3.3" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="CIn0" pin="2" pintype="passive"/>
+      <node ref="CIn2" pin="2" pintype="passive"/>
+      <node ref="COut1" pin="2" pintype="passive"/>
+      <node ref="COut2" pin="2" pintype="passive"/>
+      <node ref="Cin1" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3.3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3.3" pin="5" pinfunction="~{ON}/OFF" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="~{ON}/OFF" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3.3" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="6" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="7" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(DIn1-Pad2)">
+      <node ref="DIn1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(JP1-Pad1)">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(JP1-Pad2)">
+      <node ref="JP1" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(JP2-Pad1)">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="13" name="unconnected-(JP2-Pad2)">
+      <node ref="JP2" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="14" name="unconnected-(PS7-Pad1)">
+      <node ref="PS7" pin="1" pinfunction="AC/L" pintype="power_in"/>
+    </net>
+    <net code="15" name="unconnected-(PS7-Pad2)">
+      <node ref="PS7" pin="2" pinfunction="AC/N" pintype="power_in"/>
+    </net>
+    <net code="16" name="unconnected-(PS7-Pad3)">
+      <node ref="PS7" pin="3" pinfunction="-Vout" pintype="power_out"/>
+    </net>
+    <net code="17" name="unconnected-(PS7-Pad4)">
+      <node ref="PS7" pin="4" pinfunction="+Vout" pintype="power_out"/>
+    </net>
+  </nets>
+</export>
