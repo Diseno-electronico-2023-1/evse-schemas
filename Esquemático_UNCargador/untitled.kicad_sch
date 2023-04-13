@@ -1183,6 +1183,11 @@
     )
     (pin "1" (uuid 79f36953-f432-4e27-ba4b-e74214419c52))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1200,7 +1205,7 @@
     (property "Value" "33u" (at 251.46 107.95 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 251.46 105.41 0)
+    (property "Footprint" "Inductor_SMD:L_12x12mm_H8mm" (at 251.46 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 251.46 105.41 0)
@@ -1209,6 +1214,11 @@
     (pin "1" (uuid 9f00bec9-baee-4f36-bc6f-b0c4204c3a2e))
     (pin "2" (uuid d98d758b-c9e5-49ca-9560-a4a2f4ba68f1))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "L2") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "L2") (unit 1)
@@ -1234,6 +1244,11 @@
     )
     (pin "1" (uuid a6b80278-1ab9-4fc6-85e3-4e52694b592c))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR033") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR033") (unit 1)
@@ -1259,6 +1274,11 @@
     )
     (pin "1" (uuid 644e02d0-820a-48c7-b019-b51d76cb594e))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1276,7 +1296,7 @@
     (property "Value" "33u" (at 251.46 55.88 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_12x12mm_H4.5mm" (at 251.46 53.34 0)
+    (property "Footprint" "Inductor_SMD:L_12x12mm_H8mm" (at 251.46 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 251.46 53.34 0)
@@ -1285,6 +1305,11 @@
     (pin "1" (uuid ebf824ec-7331-4689-b71f-799627ccd2c6))
     (pin "2" (uuid f478eaa1-4154-4ff0-a463-5fd51ca51f5f))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "L1") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "L1") (unit 1)
@@ -1311,6 +1336,11 @@
     (pin "1" (uuid c7b0bd10-b30b-4de8-9c65-aa627da692a5))
     (pin "2" (uuid 310c7bd4-2485-45c0-ab05-bbc374dc2095))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "D1") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "D1") (unit 1)
@@ -1340,6 +1370,11 @@
     (pin "4" (uuid 9c93a0f0-b049-4338-97aa-84ca26abbf86))
     (pin "5" (uuid 11a391f7-e4d5-4e57-b82b-f8cd291cb168))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "PS1") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "PS1") (unit 1)
@@ -1366,6 +1401,11 @@
     (pin "1" (uuid db2f79e5-58c6-4ba5-8019-2a9156402e8d))
     (pin "2" (uuid 910af09e-7245-4481-9df8-6ad9d366f0f5))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "CIn?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "CIn?") (unit 1)
@@ -1391,6 +1431,11 @@
     )
     (pin "1" (uuid e0ed12f3-568f-439e-b20a-e05122753007))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1416,6 +1461,11 @@
     )
     (pin "1" (uuid d90fe835-b5c5-49cc-be5e-9a8f0673c009))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1441,6 +1491,11 @@
     )
     (pin "1" (uuid eef41493-feb4-41f2-a01c-459dc5a387e0))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1468,6 +1523,11 @@
     (pin "2" (uuid 5b636821-9335-4069-853e-1ef973c86454))
     (pin "3" (uuid 001ad748-3671-4e21-8580-37f7130cf153))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "U?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "U?") (unit 1)
@@ -1493,6 +1553,11 @@
     )
     (pin "1" (uuid db8bb2d1-7b69-4862-b67a-92fdd4f27805))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR032") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR032") (unit 1)
@@ -1518,6 +1583,11 @@
     )
     (pin "1" (uuid e8c79aa9-2f29-4c0c-b896-4d28ebffd21a))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1544,6 +1614,11 @@
     (pin "1" (uuid 3e5642cc-e5e1-4e2f-be1c-5753aea7d7fa))
     (pin "2" (uuid 3d5f573b-4e01-4af0-b99f-24ac321490ae))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "CIn2") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "CIn2") (unit 1)
@@ -1573,6 +1648,11 @@
     (pin "4" (uuid a56bf535-6fe9-4417-a418-4f9cfc0ebb08))
     (pin "5" (uuid fd0c6b9f-b849-4229-8bf2-4530b9aa3359))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "U3.3") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "U3.3") (unit 1)
@@ -1584,10 +1664,10 @@
   (symbol (lib_id "Device:C_Polarized_US") (at 148.59 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 41ce00f3-7bb5-4329-82ce-dafcf2218b78)
-    (property "Reference" "CIn0" (at 152.4 85.7249 0)
+    (property "Reference" "CIn0" (at 152.4 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "22mF" (at 152.4 88.2649 0)
+    (property "Value" "22uF" (at 152.4 88.9 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 148.59 87.63 0)
@@ -1599,6 +1679,11 @@
     (pin "1" (uuid 84596df0-5abc-4e36-a44a-a8cb8b3b7852))
     (pin "2" (uuid 591e5b22-ed66-4f6b-a935-f5c41cb818af))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "CIn0") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "CIn0") (unit 1)
@@ -1624,6 +1709,11 @@
     )
     (pin "1" (uuid e962c713-f70e-419c-8f32-1980702351b7))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1649,6 +1739,11 @@
     )
     (pin "1" (uuid 5b6f250a-c4c8-4d2d-98a0-9cfc3bff03bf))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1674,6 +1769,11 @@
     )
     (pin "1" (uuid 5b235880-1b6f-42f4-9c4d-092193e4ea76))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1691,7 +1791,7 @@
     (property "Value" "220u" (at 265.43 113.0299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 262.5852 115.57 0)
+    (property "Footprint" "Capacitor_SMD:CP_Elec_8x10" (at 262.5852 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 261.62 111.76 0)
@@ -1700,6 +1800,11 @@
     (pin "1" (uuid ef56dcf5-a75f-4821-8f9c-3347a5697de5))
     (pin "2" (uuid 28cfb921-e477-4368-9b97-e5e1fdb01667))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "COut2") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "COut2") (unit 1)
@@ -1726,6 +1831,11 @@
     (pin "1" (uuid b0254e93-17dd-46e3-b009-7aa1cec7890f))
     (pin "2" (uuid 06282cc4-5130-4273-9b52-c21268bb19a8))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "Cin1") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "Cin1") (unit 1)
@@ -1751,6 +1861,11 @@
     )
     (pin "1" (uuid d6b3cd3c-9c9f-4c09-aaa9-b5011a799aa9))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1768,15 +1883,23 @@
     (property "Value" "220u" (at 265.43 60.9599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 262.5852 63.5 0)
+    (property "Footprint" "Capacitor_SMD:CP_Elec_8x10" (at 262.5852 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 261.62 59.69 0)
+    (property "Datasheet" "https://drive.google.com/file/d/11OxDZvHuKI3Fac4i0sthYKh2gjoVPtwF/view" (at 261.62 59.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Campo4" "" (at 261.62 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1949cc8c-ff68-4f56-83a2-0ed773e79c1c))
     (pin "2" (uuid c20308e8-daa6-4d6f-b559-bef56407b2e4))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "COut1") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "COut1") (unit 1)
@@ -1806,6 +1929,11 @@
     (pin "4" (uuid 3476d8ac-52d9-4afa-a2d9-7aacdbba5481))
     (pin "5" (uuid 4c95d9ff-bd3a-4458-b8df-648d7e349534))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "U5") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "U5") (unit 1)
@@ -1832,6 +1960,11 @@
     (pin "1" (uuid 8ff2a551-3a28-4635-bc35-e5f7a7e40862))
     (pin "2" (uuid 7cfc226f-d789-4856-8fc9-3ad927d7729c))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "D2") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "D2") (unit 1)
@@ -1857,6 +1990,11 @@
     )
     (pin "1" (uuid 38a422b1-83fe-4bef-8079-4ec5a4edc8ef))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -1882,6 +2020,11 @@
     )
     (pin "1" (uuid 95afca70-0bfa-4c51-8898-18550195b991))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR0101") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/758fec3f-d66e-4356-8861-1c58650d5bb5"
           (reference "#PWR0101") (unit 1)
@@ -1911,6 +2054,11 @@
     (pin "1" (uuid c69dce8d-3e88-479a-a3be-e78841fae84a))
     (pin "2" (uuid 08542ee3-17e5-4e51-9ec1-fbb5ef2a0a6d))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "DIn") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "DIn") (unit 1)
@@ -1937,6 +2085,11 @@
     (pin "1" (uuid c17ff2b5-d1d6-4316-a4f3-9b46389b9d54))
     (pin "2" (uuid 3d478ce8-b028-41cd-843d-3a075435c986))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "CIn?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "CIn?") (unit 1)
@@ -1964,6 +2117,11 @@
     (pin "2" (uuid 877ae671-f9df-4624-8b8c-248e5eb36d98))
     (pin "3" (uuid 464625d8-f06f-4c0e-b5e7-26edd420e762))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "JP1") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "JP1") (unit 1)
@@ -1989,6 +2147,11 @@
     )
     (pin "1" (uuid 3acf8cc3-4535-4198-a1d8-f41c2eee0d2a))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
@@ -2014,11 +2177,20 @@
     )
     (pin "1" (uuid 7c638b99-dea5-41ba-bc1e-bb8c19ba2fc5))
     (instances
+      (project "untitled"
+        (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR?") (unit 1)
         )
       )
     )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
   )
 )
