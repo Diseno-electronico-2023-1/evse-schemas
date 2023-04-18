@@ -1960,7 +1960,7 @@
     (property "Value" "LM2596S-5" (at 222.25 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:TO-263-5_TabPin3" (at 223.52 109.22 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-220-5_Vertical" (at 223.52 109.22 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2596.pdf" (at 222.25 102.87 0)
