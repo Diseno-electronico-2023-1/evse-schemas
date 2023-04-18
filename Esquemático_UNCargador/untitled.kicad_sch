@@ -797,6 +797,46 @@
         )
       )
     )
+    (symbol "power:-12V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+      (property "Reference" "#PWR" (at 0 2.54 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Value" "-12V" (at 0 3.81 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "global power" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Power symbol creates a global label with name \"-12V\"" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "-12V_0_0"
+        (pin power_in line (at 0 0 90) (length 0) hide
+          (name "-12V" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+      )
+      (symbol "-12V_0_1"
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 0 1.27)
+            (xy 0.762 1.27)
+            (xy 0 2.54)
+            (xy -0.762 1.27)
+            (xy 0 1.27)
+          )
+          (stroke (width 0) (type default))
+          (fill (type outline))
+        )
+      )
+    )
     (symbol "power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -865,6 +905,9 @@
   )
   (junction (at 240.03 53.34) (diameter 0) (color 0 0 0 0)
     (uuid d43182b4-d182-40a5-b210-7bd830e62cb1)
+  )
+  (junction (at 138.43 163.83) (diameter 0) (color 0 0 0 0)
+    (uuid d4ecbe49-16e8-4412-a44f-a44be9fa6f28)
   )
   (junction (at 124.46 147.32) (diameter 0) (color 0 0 0 0)
     (uuid e2ec8b61-7678-44e6-ad2b-49a113cc27e9)
@@ -1190,7 +1233,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0118") (unit 1)
         )
       )
     )
@@ -1281,7 +1324,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0122") (unit 1)
         )
       )
     )
@@ -1324,10 +1367,10 @@
     (property "Reference" "D1" (at 242.57 58.1024 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "~" (at 242.57 60.6424 90)
+    (property "Value" "SS341" (at 242.57 60.6424 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 235.585 59.69 0)
+    (property "Footprint" "Diode_SMD:D_SMA_Handsoldering" (at 235.585 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/88526/1n5820.pdf" (at 240.03 59.69 0)
@@ -1358,7 +1401,7 @@
     (property "Value" "BAC05S05DC" (at 55.88 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ConvertidorAc-DC-Footprint-Loca:AC-DC_ConverterEditado" (at 55.88 90.17 0)
+    (property "Footprint" "Convertidor_AC-DC:AC-DC_Converter" (at 55.88 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 55.88 92.71 0)
@@ -1392,7 +1435,7 @@
     (property "Value" "~" (at 142.24 154.9399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 139.3952 157.48 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H16.0mm_P5.00mm" (at 139.3952 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 138.43 153.67 0)
@@ -1408,7 +1451,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "CIn?") (unit 1)
+          (reference "CIn4") (unit 1)
         )
       )
     )
@@ -1438,7 +1481,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0115") (unit 1)
         )
       )
     )
@@ -1468,7 +1511,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0114") (unit 1)
         )
       )
     )
@@ -1498,7 +1541,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0117") (unit 1)
         )
       )
     )
@@ -1530,7 +1573,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "U?") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -1590,7 +1633,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0119") (unit 1)
         )
       )
     )
@@ -1605,7 +1648,7 @@
     (property "Value" "680u" (at 196.85 110.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 194.0052 113.03 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H16.0mm_P5.00mm" (at 194.0052 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 193.04 109.22 0)
@@ -1716,7 +1759,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0112") (unit 1)
         )
       )
     )
@@ -1746,7 +1789,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0113") (unit 1)
         )
       )
     )
@@ -1776,7 +1819,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0120") (unit 1)
         )
       )
     )
@@ -1822,7 +1865,7 @@
     (property "Value" "680u" (at 196.85 58.4199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 194.0052 60.96 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H16.0mm_P5.00mm" (at 194.0052 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 193.04 57.15 0)
@@ -1868,7 +1911,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0116") (unit 1)
         )
       )
     )
@@ -1948,10 +1991,10 @@
     (property "Reference" "D2" (at 242.57 110.1724 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "~" (at 242.57 112.7124 90)
+    (property "Value" "SS34" (at 242.57 112.7124 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 235.585 111.76 0)
+    (property "Footprint" "Diode_SMD:D_SMA_Handsoldering" (at 235.585 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/88526/1n5820.pdf" (at 240.03 111.76 0)
@@ -1997,7 +2040,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0111") (unit 1)
         )
       )
     )
@@ -2061,7 +2104,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "DIn") (unit 1)
+          (reference "DIn1") (unit 1)
         )
       )
     )
@@ -2076,7 +2119,7 @@
     (property "Value" "~" (at 111.76 154.9399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 108.9152 157.48 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H16.0mm_P5.00mm" (at 108.9152 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 107.95 153.67 0)
@@ -2092,7 +2135,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "CIn?") (unit 1)
+          (reference "CIn3") (unit 1)
         )
       )
     )
@@ -2130,6 +2173,31 @@
     )
   )
 
+  (symbol (lib_id "power:-12V") (at 138.43 163.83 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e945ad6e-b098-48ab-bff1-b0c162a7d648)
+    (property "Reference" "#PWR034" (at 138.43 166.37 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "-12V" (at 138.43 168.91 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 138.43 163.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 138.43 163.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bcfdb286-4c0d-422d-942b-f347186ecc14))
+    (instances
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
+          (reference "#PWR034") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 148.59 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb400c32-5834-4bc1-a47a-d31e1f91f410)
@@ -2154,7 +2222,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0121") (unit 1)
         )
       )
     )
@@ -2184,7 +2252,7 @@
       )
       (project "CircuitoPotencia"
         (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0110") (unit 1)
         )
       )
     )

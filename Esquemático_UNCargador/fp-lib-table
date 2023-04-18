@@ -4,4 +4,6 @@
   (lib (name "Convertidor_AC-DC")(type "KiCad")(uri "${KIPRJMOD}/Convertidor_AC-DC.pretty")(options "")(descr ""))
   (lib (name "ConvertidorAc-DC-Footprint-Loca")(type "KiCad")(uri "${KIPRJMOD}/ConvertidorAc-DC-Footprint-Loca.pretty")(options "")(descr ""))
   (lib (name "RP2040")(type "KiCad")(uri "C:/Users/ediso/Documents/Diseño/evse-schemas/Librerias/rp2040/RP2040.pretty")(options "")(descr ""))
+  (lib (name "PZEM")(type "KiCad")(uri "/home/diegoa/Documents/UNAL/2023-1/Diseno/BranchMaster/evse-schemas/Sensores/PZEM.pretty")(options "")(descr ""))
+  (lib (name "LF353")(type "KiCad")(uri "/home/diegoa/Documents/UNAL/2023-1/Diseno/BranchMaster/evse-schemas/Librerias/LF353.pretty")(options "")(descr ""))
 )
