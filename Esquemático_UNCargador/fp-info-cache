@@ -1,4 +1,4 @@
-21571076220182855
+21574439933048305
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51386,6 +51386,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DO214AC
+DO-214AC
+Jedec DO-214AC diode package. Designed according to Vishay datasheet.
+DO-214AC diode
+0
+2
+2
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -60731,6 +60738,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LM2596ADJ
+LM2596ADJ
+
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
