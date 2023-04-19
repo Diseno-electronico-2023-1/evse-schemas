@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "ConvertidoAC-DC-Local")(type "KiCad")(uri "${KIPRJMOD}/ConvertidoAC-DC-Local.kicad_sym")(options "")(descr ""))
   (lib (name "RP2040")(type "Legacy")(uri "C:/Users/ediso/Documents/Diseño/evse-schemas/Librerias/rp2040/RP2040.lib")(options "")(descr ""))
+  (lib (name "MCU_Module")(type "KiCad")(uri "C:/Users/ediso/Documents/Diseño/Pico-KiCad/MCU_Module.kicad_sym")(options "")(descr "")(disabled)(hidden))
+  (lib (name "MCU_ModulePico")(type "KiCad")(uri "${KIPRJMOD}/Pico-KiCad/MCU_ModulePico.kicad_sym")(options "")(descr ""))
 )
