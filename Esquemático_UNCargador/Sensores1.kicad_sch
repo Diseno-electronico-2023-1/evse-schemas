@@ -1089,7 +1089,7 @@
     (uuid e15e1b72-f80b-4cb6-aef7-84e6edaf2707)
   )
 
-  (hierarchical_label "TX_01" (shape input) (at 92.71 34.29 0) (fields_autoplaced)
+  (hierarchical_label "TX_Pzem" (shape input) (at 92.71 34.29 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 62c7b106-f8ab-49c4-9cc6-88d16789a350)
   )
@@ -1105,7 +1105,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d5f1a386-3d83-4128-9b45-8480dcc6e7a7)
   )
-  (hierarchical_label "RX_01" (shape input) (at 77.47 40.64 0) (fields_autoplaced)
+  (hierarchical_label "RX_Pzem" (shape input) (at 77.47 40.64 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid dcfea686-49c8-4c4e-87fa-02540886a495)
   )
