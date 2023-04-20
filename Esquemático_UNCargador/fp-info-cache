@@ -1,4 +1,4 @@
-21574439933048305
+21579485579858564
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60743,8 +60743,8 @@ LM2596ADJ
 
 
 0
-0
-0
+4
+4
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -61004,6 +61004,27 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+ModulePico
+Raspberry_Pi_Pico_AddOn
+Raspberry Pi Pico (W) Add-On Board
+Pico-W RPL RPTL RPi module
+0
+181
+45
+ModulePico
+Raspberry_Pi_Pico_SMT_THT
+Raspberry Pi Pico (W), RP2040-based microcontroller board (with wireless)
+Pico-W RPL RPTL RPi module RP2040 CYW43439 2.4GHz RF radio Wi-Fi WiFi SMD
+0
+95
+49
+ModulePico
+Raspberry_Pi_Pico_THT
+Raspberry Pi Pico (W), RP2040-based microcontroller board (with wireless)
+Pico-W RPL RPTL RPi module RP2040 CYW43439 2.4GHz RF radio Wi-Fi WiFi
+0
+47
+43
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
