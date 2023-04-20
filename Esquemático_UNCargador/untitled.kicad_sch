@@ -1048,6 +1048,11 @@
           (reference "#PWR02") (unit 1)
         )
       )
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
+          (reference "#PWR02") (unit 1)
+        )
+      )
     )
   )
 
@@ -1297,6 +1302,11 @@
           (reference "U_5V") (unit 1)
         )
       )
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
+          (reference "U_5V") (unit 1)
+        )
+      )
     )
   )
 
@@ -1319,6 +1329,11 @@
     (instances
       (project "untitled"
         (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR06") (unit 1)
+        )
+      )
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR06") (unit 1)
         )
       )
@@ -1347,6 +1362,11 @@
           (reference "#PWR07") (unit 1)
         )
       )
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
+          (reference "#PWR07") (unit 1)
+        )
+      )
     )
   )
 
@@ -1369,6 +1389,11 @@
     (instances
       (project "untitled"
         (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR08") (unit 1)
+        )
+      )
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR08") (unit 1)
         )
       )
@@ -1427,6 +1452,11 @@
     (instances
       (project "untitled"
         (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "U_3.3V") (unit 1)
+        )
+      )
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "U_3.3V") (unit 1)
         )
       )
@@ -1551,6 +1581,11 @@
           (reference "#PWR05") (unit 1)
         )
       )
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
+          (reference "#PWR05") (unit 1)
+        )
+      )
     )
   )
 
@@ -1603,6 +1638,11 @@
     (instances
       (project "untitled"
         (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"
+          (reference "#PWR01") (unit 1)
+        )
+      )
+      (project "CircuitoPotencia"
+        (path "/f64e4c48-29c2-4644-b6e3-d55b9152fc29/c38372d7-094a-4ec0-82ac-c3a161d378bf"
           (reference "#PWR01") (unit 1)
         )
       )
