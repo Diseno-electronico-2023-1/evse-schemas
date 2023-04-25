@@ -7,4 +7,5 @@
   (lib (name "PZEM")(type "KiCad")(uri "/home/diegoa/Documents/UNAL/2023-1/Diseno/BranchMaster/evse-schemas/Sensores/PZEM.pretty")(options "")(descr ""))
   (lib (name "LF353")(type "KiCad")(uri "/home/diegoa/Documents/UNAL/2023-1/Diseno/BranchMaster/evse-schemas/Librerias/LF353.pretty")(options "")(descr ""))
   (lib (name "ModulePico")(type "KiCad")(uri "${KIPRJMOD}/Pico-KiCad/ModulePico.pretty")(options "")(descr ""))
+  (lib (name "LM2596ADJ")(type "KiCad")(uri "${KIPRJMOD}/LM2596Mod/LM2596ADJ.pretty")(options "")(descr ""))
 )

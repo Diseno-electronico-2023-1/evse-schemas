@@ -675,7 +675,7 @@
     (property "Value" "LM324N" (at 60.96 46.482 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "symbols-footprints:DIP794W45P254L1969H508Q14" (at 60.96 67.31 0)
+    (property "Footprint" "LM324:DIP794W45P254L1969H508Q14" (at 60.96 67.31 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 60.96 67.31 0)
