@@ -1668,11 +1668,11 @@
     (property "Datasheet" "" (at 48.26 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "3" (uuid 27e1d219-5d9a-4013-9258-d6c76b8022f0))
-    (pin "4" (uuid 9c93a0f0-b049-4338-97aa-84ca26abbf86))
-    (pin "3" (uuid 27e1d219-5d9a-4013-9258-d6c76b8022f0))
     (pin "1" (uuid 7eff1905-70b8-49e6-b941-b0f3704d7189))
     (pin "2" (uuid 83b9c994-6f15-4a8c-baf9-2faba032b6c3))
+    (pin "3" (uuid 27e1d219-5d9a-4013-9258-d6c76b8022f2))
+    (pin "3" (uuid 27e1d219-5d9a-4013-9258-d6c76b8022f2))
+    (pin "4" (uuid 9c93a0f0-b049-4338-97aa-84ca26abbf86))
     (instances
       (project "untitled"
         (path "/9be105a0-504f-4b07-b004-211a0f61b6b4"

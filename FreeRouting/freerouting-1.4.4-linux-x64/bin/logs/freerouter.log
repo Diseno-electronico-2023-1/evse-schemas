@@ -1,0 +1,151 @@
+2023-04-27 15:05:53.545 [main] INFO  eu.mihosoft.freerouting.FreeRouting - Freerouting application is started.
+2023-04-27 15:05:53.693 [main] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'MainApplication.main()' was performed in 3.87 seconds.
+2023-04-27 15:06:23.926 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.dsn'...
+2023-04-27 15:06:25.298 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.rules'...
+2023-04-27 15:06:25.299 [AWT-EventQueue-0] ERROR eu.mihosoft.freerouting.FreeRouting - File 'CircuitoPotencia.rules' was not found.
+2023-04-27 15:06:37.995 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:06:39.914 [Thread-0] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #1 on board 'd6d1d4035ba813b27ea54be3f3a51167' making 0 changes' was performed in 1.35 seconds.
+2023-04-27 15:06:39.919 [Thread-0] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:06:39.991 [Thread-0] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 1.99 seconds.
+2023-04-27 15:06:57.119 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:06:58.250 [Thread-1] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #2 on board 'b2c43b68653d7bd3a8d0d5201b82ce8e' making 0 changes' was performed in 0.69 seconds.
+2023-04-27 15:06:58.255 [Thread-1] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:06:58.276 [Thread-1] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 1.15 seconds.
+2023-04-27 15:07:57.393 [main] INFO  eu.mihosoft.freerouting.FreeRouting - Freerouting application is started.
+2023-04-27 15:07:57.535 [main] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'MainApplication.main()' was performed in 0.51 seconds.
+2023-04-27 15:09:04.773 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.dsn'...
+2023-04-27 15:09:06.319 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.rules'...
+2023-04-27 15:09:06.320 [AWT-EventQueue-0] ERROR eu.mihosoft.freerouting.FreeRouting - File 'CircuitoPotencia.rules' was not found.
+2023-04-27 15:09:19.832 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:09:21.810 [Thread-0] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #1 on board 'e299b839c56db17db538946209468033' making 0 changes' was performed in 1.32 seconds.
+2023-04-27 15:09:21.816 [Thread-0] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:09:21.839 [Thread-0] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 2.00 seconds.
+2023-04-27 15:09:33.983 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:09:35.321 [Thread-1] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #2 on board '3e13040f0b57f708a2d0db255514e3b5' making 0 changes' was performed in 0.70 seconds.
+2023-04-27 15:09:35.326 [Thread-1] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:09:35.348 [Thread-1] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 1.36 seconds.
+2023-04-27 15:09:57.069 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:09:58.011 [Thread-2] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #3 on board 'd9755b34991d4a2f3254457143057230' making 0 changes' was performed in 0.42 seconds.
+2023-04-27 15:09:58.015 [Thread-2] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:09:58.033 [Thread-2] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.96 seconds.
+2023-04-27 15:10:03.865 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:10:05.420 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:11:05.980 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:14:03.752 [main] INFO  eu.mihosoft.freerouting.FreeRouting - Freerouting application is started.
+2023-04-27 15:14:03.908 [main] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'MainApplication.main()' was performed in 0.60 seconds.
+2023-04-27 15:14:32.560 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.dsn'...
+2023-04-27 15:14:34.038 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.rules'...
+2023-04-27 15:14:34.040 [AWT-EventQueue-0] ERROR eu.mihosoft.freerouting.FreeRouting - File 'CircuitoPotencia.rules' was not found.
+2023-04-27 15:14:47.907 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:14:49.011 [Thread-0] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #1 on board 'e299b839c56db17db538946209468033' making 0 changes' was performed in 0.49 seconds.
+2023-04-27 15:14:49.034 [Thread-0] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 1.12 seconds.
+2023-04-27 15:15:17.275 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:16:14.611 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:16:15.848 [Thread-1] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #1 on board 'd9755b34991d4a2f3254457143057230' making 0 changes' was performed in 0.77 seconds.
+2023-04-27 15:16:15.853 [Thread-1] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:16:15.879 [Thread-1] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 1.27 seconds.
+2023-04-27 15:17:58.848 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:17:59.900 [Thread-4] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #1 on board 'b330d0a168c8bc4667ab550ba94d480a' making 0 changes' was performed in 0.53 seconds.
+2023-04-27 15:17:59.908 [Thread-4] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:17:59.938 [Thread-4] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 1.09 seconds.
+2023-04-27 15:18:03.124 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:18:04.026 [Thread-5] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #2 on board '62fb27b429cfe3551119aa1cc1f1d978' making 0 changes' was performed in 0.46 seconds.
+2023-04-27 15:18:04.030 [Thread-5] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:18:04.045 [Thread-5] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.92 seconds.
+2023-04-27 15:18:06.344 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:18:07.254 [Thread-6] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #3 on board 'dbde062c189f2f598624a5a6b7d4fb4b' making 0 changes' was performed in 0.43 seconds.
+2023-04-27 15:18:07.259 [Thread-6] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:18:07.276 [Thread-6] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.93 seconds.
+2023-04-27 15:18:20.097 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:18:22.236 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:18:23.130 [Thread-8] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #4 on board '555766be2740acd412b900b23ad664da' making 0 changes' was performed in 0.46 seconds.
+2023-04-27 15:18:23.134 [Thread-8] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:18:23.150 [Thread-8] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.91 seconds.
+2023-04-27 15:18:23.707 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:18:24.618 [Thread-9] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #5 on board '13ba629ba7886666fb5873b5f03592ed' making 0 changes' was performed in 0.47 seconds.
+2023-04-27 15:18:24.622 [Thread-9] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:18:24.676 [Thread-9] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.97 seconds.
+2023-04-27 15:19:10.509 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:19:11.368 [Thread-10] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #6 on board '6fb78965738edcd2937590a3ebe1d902' making 0 changes' was performed in 0.42 seconds.
+2023-04-27 15:19:11.371 [Thread-10] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:19:11.386 [Thread-10] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.88 seconds.
+2023-04-27 15:19:26.403 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:19:39.303 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:19:40.150 [Thread-11] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #7 on board '84f6d3d29121a8e7223379ccd9c32c05' making 0 changes' was performed in 0.42 seconds.
+2023-04-27 15:19:40.154 [Thread-11] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:19:40.167 [Thread-11] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.86 seconds.
+2023-04-27 15:19:43.832 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:19:44.742 [Thread-12] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #8 on board '4568ce9f76f786c4ced5e2192d123b01' making 0 changes' was performed in 0.47 seconds.
+2023-04-27 15:19:44.746 [Thread-12] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:19:44.761 [Thread-12] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.93 seconds.
+2023-04-27 15:20:24.821 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:20:25.655 [Thread-13] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #9 on board '06bed1b18f2c277843403ebf2d0c96e0' making 0 changes' was performed in 0.41 seconds.
+2023-04-27 15:20:25.660 [Thread-13] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:20:25.675 [Thread-13] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.85 seconds.
+2023-04-27 15:20:29.493 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:20:30.354 [Thread-14] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #10 on board '8cd84754ec1686195c5ae67895830940' making 0 changes' was performed in 0.44 seconds.
+2023-04-27 15:20:30.358 [Thread-14] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:20:30.372 [Thread-14] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.88 seconds.
+2023-04-27 15:20:31.350 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:20:32.187 [Thread-15] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #11 on board '622f8a1f4a11aef786e73c6306ae93c9' making 0 changes' was performed in 0.42 seconds.
+2023-04-27 15:20:32.190 [Thread-15] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:20:32.206 [Thread-15] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.85 seconds.
+2023-04-27 15:20:32.844 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:20:33.706 [Thread-16] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #12 on board '2668fd66164e7848a23a322b98d6c9d6' making 0 changes' was performed in 0.45 seconds.
+2023-04-27 15:20:33.710 [Thread-16] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:20:33.725 [Thread-16] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.88 seconds.
+2023-04-27 15:20:34.439 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:20:35.255 [Thread-17] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #13 on board 'd8f2b75cea5be671b34dae1b2bf219a9' making 0 changes' was performed in 0.42 seconds.
+2023-04-27 15:20:35.259 [Thread-17] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:20:35.273 [Thread-17] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.83 seconds.
+2023-04-27 15:38:40.483 [main] INFO  eu.mihosoft.freerouting.FreeRouting - Freerouting application is started.
+2023-04-27 15:38:40.639 [main] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'MainApplication.main()' was performed in 0.74 seconds.
+2023-04-27 15:40:49.931 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.dsn'...
+2023-04-27 15:40:51.403 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.rules'...
+2023-04-27 15:40:51.404 [AWT-EventQueue-0] ERROR eu.mihosoft.freerouting.FreeRouting - File 'CircuitoPotencia.rules' was not found.
+2023-04-27 15:41:01.123 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:41:02.938 [Thread-0] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #1 on board 'caf58bf026913ed0b8e5081f826df787' making 0 changes' was performed in 1.30 seconds.
+2023-04-27 15:41:02.945 [Thread-0] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:41:02.969 [Thread-0] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 1.84 seconds.
+2023-04-27 15:41:04.974 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:41:06.115 [Thread-1] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #2 on board 'cf75d135639b4a0fdc0a99c2eab83c59' making 0 changes' was performed in 0.73 seconds.
+2023-04-27 15:41:06.119 [Thread-1] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:41:06.137 [Thread-1] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 1.16 seconds.
+2023-04-27 15:41:11.043 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:41:11.925 [Thread-2] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #3 on board '7560c917aeed3b9502688af5f6ad4504' making 0 changes' was performed in 0.47 seconds.
+2023-04-27 15:41:11.929 [Thread-2] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:41:11.948 [Thread-2] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.90 seconds.
+2023-04-27 15:42:08.187 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:42:09.079 [Thread-3] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #4 on board '6b45668577e4f51d2a75ded9c9de4c80' making 0 changes' was performed in 0.50 seconds.
+2023-04-27 15:42:09.083 [Thread-3] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:42:09.102 [Thread-3] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.91 seconds.
+2023-04-27 15:42:10.283 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:42:11.104 [Thread-4] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #5 on board 'ed54b37888aaefda02b549f066a4ad3b' making 0 changes' was performed in 0.42 seconds.
+2023-04-27 15:42:11.107 [Thread-4] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:42:11.123 [Thread-4] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.84 seconds.
+2023-04-27 15:43:54.325 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.dsn'...
+2023-04-27 15:43:55.310 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Opening 'CircuitoPotencia.rules'...
+2023-04-27 15:43:55.310 [AWT-EventQueue-0] ERROR eu.mihosoft.freerouting.FreeRouting - File 'CircuitoPotencia.rules' was not found.
+2023-04-27 15:43:58.765 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:43:59.924 [Thread-5] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #1 on board 'e6d589dc4333cd9eba377c6141359950' making 0 changes' was performed in 0.69 seconds.
+2023-04-27 15:43:59.928 [Thread-5] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:43:59.946 [Thread-5] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 1.18 seconds.
+2023-04-27 15:44:40.001 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:44:40.700 [Thread-6] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #2 on board '452a723a5e2ad75dcbc8e545962b2439' making 0 changes' was performed in 0.26 seconds.
+2023-04-27 15:44:40.704 [Thread-6] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:44:40.718 [Thread-6] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.71 seconds.
+2023-04-27 15:45:42.158 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:45:45.240 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:45:51.333 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:45:57.763 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:45:58.503 [Thread-8] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #3 on board '436607e923452c7507821d52527d98f0' making 0 changes' was performed in 0.29 seconds.
+2023-04-27 15:45:58.508 [Thread-8] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:45:58.525 [Thread-8] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.76 seconds.
+2023-04-27 15:46:39.992 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:46:40.693 [Thread-9] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #4 on board 'f73d87adb716962524724d9cdd690672' making 0 changes' was performed in 0.25 seconds.
+2023-04-27 15:46:40.697 [Thread-9] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:46:40.711 [Thread-9] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.72 seconds.
+2023-04-27 15:48:37.690 [AWT-EventQueue-0] INFO  eu.mihosoft.freerouting.FreeRouting - Generating snapshot
+2023-04-27 15:48:38.399 [Thread-10] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouter.autoroute_pass #5 on board '561d9b60e1ab7817be5aac2d3f62c47d' making 0 changes' was performed in 0.25 seconds.
+2023-04-27 15:48:38.405 [Thread-10] WARN  eu.mihosoft.freerouting.FreeRouting - This board was already evaluated, so we stop autorouter to avoid the endless loop.
+2023-04-27 15:48:38.565 [Thread-10] TRACE eu.mihosoft.freerouting.FreeRouting - Method 'BatchAutorouterThread.thread_action()' was performed in 0.87 seconds.
