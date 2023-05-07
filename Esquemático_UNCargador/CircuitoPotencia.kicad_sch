@@ -378,7 +378,7 @@
     (property "Value" "Conn_02x03_Counter_Clockwise" (at 27.94 137.795 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (at 22.86 137.16 0)
+    (property "Footprint" "Connector_IDC:IDC-Header_2x04_P2.54mm_Vertical" (at 22.86 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 22.86 137.16 0)
