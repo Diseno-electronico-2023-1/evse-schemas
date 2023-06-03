@@ -34,7 +34,6 @@ Estado A  | 12 | Vehículo no conectado
 Estado B  | 9 | Vehículo conectado / no está listo para aceptar energía
 Estado C  | 6 | Vehículo conectado / listo para aceptar energía / no se requiere ventilación en el área de carga interna
 Estado D  | 3 | Vehículo conectado / listo para aceptar energía /requiere ventilación en el área de carga interna
-
 Estado E  | 0 | EVSE desconectado, poder de utilidad no disponible, u otro problema de EVSE
 Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
 
