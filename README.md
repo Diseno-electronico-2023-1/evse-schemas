@@ -26,9 +26,9 @@ git push -u origin branch-name
 ## CONECTOR
 Esta seccion esta basado en la plantilla [Conector](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector "Conector")
 
-###Control Pilot PCB y simulación
+### Control Pilot PCB y simulación
 
-###Tables SAE J1772 PILOT SIGNAL
+#### Tables SAE J1772 PILOT SIGNAL
                     
 Designación del estado del vehículo  |Voltaje (VDC nominal) | Descripción del estado del vehículo
 ------------- | ------------- | -------------
