@@ -44,7 +44,7 @@ Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
 ![simulation](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/deecbd8a-70e5-406f-ac1c-a4d636f5dd03)
 
 #### PWM - PILOT SIGNAL
-[PCB](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector/ControlPilotPCB-backups)
+
 AMPS  | DUTY CYCLE
 ------------- | -------------
 5  | 8.3%
@@ -55,6 +55,7 @@ AMPS  | DUTY CYCLE
 80  | 96%
 
 ### Control Pilot - PCB
+Esta subseccion esta basado en la plantilla [PCB](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector/ControlPilotPCB-backups)
 
 ![pcb2](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/388b68eb-7794-44ec-ab23-544f392cd22e)
 
