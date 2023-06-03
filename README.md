@@ -24,6 +24,7 @@ git push -u origin branch-name
 Esta seccion esta basado en la plantilla [Conector](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector "Conector")
 
 ### Control Pilot - simulación
+Este apartado tiene como carpeta principal [Simulación](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector/Simulacion)
 
 #### Tables SAE J1772 - PILOT SIGNAL
                     
@@ -42,7 +43,8 @@ Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
 
 ![simulation](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/deecbd8a-70e5-406f-ac1c-a4d636f5dd03)
 
-#### PWM - PILOT SIGNAL                    
+#### PWM - PILOT SIGNAL
+[PCB](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector/ControlPilotPCB-backups)
 AMPS  | DUTY CYCLE
 ------------- | -------------
 5  | 8.3%
