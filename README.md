@@ -16,6 +16,9 @@ git commit -m "Descripción de sus cambios"
 
 git push -u origin branch-name
 
+## Table of Contents
+1. [Conector](#conector)
+
 
 ## CONECTOR
 Esta seccion esta basado en la plantilla [Conector](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector "Conector")
@@ -49,8 +52,3 @@ AMPS  | DUTY CYCLE
 65  | 90%
 80  | 96%
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
