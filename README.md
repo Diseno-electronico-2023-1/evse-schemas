@@ -62,3 +62,9 @@ AMPS  | DUTY CYCLE
 
 ![schematic](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/1d457d81-68a7-4640-a62b-dd5cba44fd54)
 
+
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
