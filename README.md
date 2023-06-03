@@ -25,7 +25,7 @@ Esta seccion esta basado en la plantilla [Conector](https://github.com/Diseno-el
 
 ### Control Pilot - simulación
 
-#### Tables SAE J1772 PILOT SIGNAL
+#### Tables SAE J1772 - PILOT SIGNAL
                     
 Designación del estado del vehículo  |Voltaje (VDC nominal) | Descripción del estado del vehículo
 ------------- | ------------- | -------------
@@ -42,7 +42,7 @@ Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
 
 ![simulation](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/deecbd8a-70e5-406f-ac1c-a4d636f5dd03)
 
-                    
+#### PWM - PILOT SIGNAL                    
 AMPS  | DUTY CYCLE
 ------------- | -------------
 5  | 8.3%
