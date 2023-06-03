@@ -23,7 +23,7 @@ git push -u origin branch-name
 ## CONECTOR
 Esta seccion esta basado en la plantilla [Conector](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector "Conector")
 
-### Control Pilot PCB y simulación
+### Control Pilot - simulación
 
 #### Tables SAE J1772 PILOT SIGNAL
                     
@@ -51,4 +51,14 @@ AMPS  | DUTY CYCLE
 40  | 66.6%
 65  | 90%
 80  | 96%
+
+### Control Pilot - PCB
+
+![pcb2](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/388b68eb-7794-44ec-ab23-544f392cd22e)
+
+![pcb1](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/5aead935-cc50-4a8b-9edb-77d0d74f67f4)
+
+![routing](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/bb78755c-777a-4983-a05c-2d47f261344c)
+
+![schematic](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/1d457d81-68a7-4640-a62b-dd5cba44fd54)
 
