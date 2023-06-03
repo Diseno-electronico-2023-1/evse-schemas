@@ -17,7 +17,7 @@ git commit -m "Descripción de sus cambios"
 git push -u origin branch-name
 
 ## Table of Contents
-1. [Conector](#conector)
+- [Conector](#conector)
 
 
 ## CONECTOR
@@ -63,8 +63,4 @@ AMPS  | DUTY CYCLE
 ![schematic](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/1d457d81-68a7-4640-a62b-dd5cba44fd54)
 
 
-**Table of Contents**
 
-[TOCM]
-
-[TOC]
