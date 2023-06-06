@@ -49,6 +49,11 @@ Estado D  | 3 | Vehículo conectado / listo para aceptar energía /requiere vent
 Estado E  | 0 | EVSE desconectado, poder de utilidad no disponible, u otro problema de EVSE
 Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
 
+1. El EVSE pone 12V en el cable piloto. Esta transmisión señala al vehículo cuando el enchufe está conectado.
+2. Cuando se conecta el enchufe, el vehículo coloca una carga de 2,74 kΩ en la línea piloto, lo que disminuye la tensión a 9 V.
+3. La EVSE pasa al estado B, donde activa el PWM, que indica al vehículo cuánta corriente puede consumir. El EVSE también cierra los relés, proporcionando energía al vehículo.
+4. El vehículo comienza a consumir energía y cambia a la carga de 822-Ω, que baja la tensión a 6 V, señalando al EVSE que la carga ha comenzado.
+5. La mayoría de los vehículos siguen consumiendo pequeñas cantidades de energía en el estado C, incluso cuando están completamente cargados, por lo que el proceso de carga finaliza desenchufando el cable, lo que devuelve la tensión a 12 V. El EVSE mide este proceso y cierra los relés y vuelve al estado A.
 
 ![schematic](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/2b02a925-df56-40a1-965b-ab35b09d1547)
 
