@@ -29,7 +29,7 @@ Para esta prueba se realiza un montaje en paralelo entre una linea y neutro del 
 
 <p>
     <img src="![montajevoltaje](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/e3151760-9257-4b66-8d34-9814eae60585)" >
-    <img src="https://picsum.photos/100/100" >
+    <img src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Simulacion/images/schematic.png" >
 </p>
 
 
