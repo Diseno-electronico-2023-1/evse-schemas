@@ -18,6 +18,7 @@ git push -u origin branch-name
 
 ## Table of Contents
 - [Conector](#conector)
+- [Control Pilot](#controlPilot)
 
 
 ## CONECTOR
