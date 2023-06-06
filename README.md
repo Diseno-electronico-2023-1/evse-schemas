@@ -70,20 +70,14 @@ Para determinar la resistencia de aislamiento del conector se utiliza un medidor
 
 Comparando este valor con el dado comercialmente se obtiene una resistencia considerablemente mayor a la descrita en el manual.
 
-<p align="center">
+<div align="center">
 
 Votaje [RMS]  | Corriente [A] | Aislamiento [Gomh]
 ------------- | ------------- | -------------
 121  | 5  | 319
 383  | 15 
 447  | 16
-</p>
-
-Votaje [RMS]  | Corriente [A] | Aislamiento [Gomh]
-------------- | ------------- | -------------
-121  | 5  | 319
-383  | 15 
-447  | 16
+</div>
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Images_LABE/Aislamiento/Untitled.png">
@@ -108,6 +102,7 @@ Comienzan las funciones del piloto de control (CP)
 Este apartado tiene como carpeta principal [Simulación](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector/Simulacion)
 
 #### Table SAE J1772 - PILOT SIGNAL
+<div align="center">
                     
 Designación del estado del vehículo  |Voltaje (VDC nominal) | Descripción del estado del vehículo
 ------------- | ------------- | -------------
@@ -117,6 +112,7 @@ Estado C  | 6 | Vehículo conectado / listo para aceptar energía / no se requie
 Estado D  | 3 | Vehículo conectado / listo para aceptar energía /requiere ventilación en el área de carga interna
 Estado E  | 0 | EVSE desconectado, poder de utilidad no disponible, u otro problema de EVSE
 Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
+</div>
 
 1. El EVSE pone 12V en el cable piloto. Esta transmisión señala al vehículo cuando el enchufe está conectado.
 2. Cuando se conecta el enchufe, el vehículo coloca una carga de 2,74 kΩ en la línea piloto, lo que disminuye la tensión a 9 V.
@@ -139,6 +135,8 @@ El ciclo de trabajo de las señales piloto comunica el límite de corriente que 
 Rango de corriente especificado; para un servicio de 6 a 51 A, es:
 Duty Cycle = Amps / 0.6
 
+<div align="center">
+
 AMPS  | DUTY CYCLE
 ------------- | -------------
 5  | 8.3%
@@ -147,6 +145,7 @@ AMPS  | DUTY CYCLE
 40  | 66.6%
 65  | 90%
 80  | 96%
+</div>
 
 ### Control Pilot - PCB
 Esta subseccion esta basado en la plantilla [PCB](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector/ControlPilotPCB-backups)
