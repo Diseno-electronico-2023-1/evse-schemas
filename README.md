@@ -25,9 +25,11 @@ git push -u origin branch-name
 #### Tension
 Para esta prueba se realiza un montaje en paralelo entre una linea y neutro del conector con una fuente de tensión en AC, Como se observa en el siguiente montaje.
 
+<p>
+   ![montajevoltaje](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/e3151760-9257-4b66-8d34-9814eae60585)
+   ![montajevoltaje2](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/ee67c2b6-122b-4c2d-aa93-b73e22e80ddb)
+</p>
 
-![montajevoltaje](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/e3151760-9257-4b66-8d34-9814eae60585)
-![montajevoltaje2](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/ee67c2b6-122b-4c2d-aa93-b73e22e80ddb)
 
 Se realiza la respectiva verificación de la tensión a la que estará expuesto el conector y se realizan distintas pruebas con diferentes valores de voltaje obteniendo los siguientes resultados.
 
