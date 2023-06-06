@@ -145,10 +145,9 @@ Esta subseccion esta basado en la plantilla [PCB](https://github.com/Diseno-elec
 <p align="center">
   <img align="left" width="460" height="600" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/pcb/images/schematic.png">
   <p align="center">
-    <img align="right" width="460" height="290" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/pcb/images/routing.png">
-    <img align="right" width="460" height="290" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/pcb/images/pcb2.png">
+    <img align="right" width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/pcb/images/routing.png">
+    <img align="right" width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/pcb/images/pcb2.png">
   </p>
-  
 </p>
 
 
