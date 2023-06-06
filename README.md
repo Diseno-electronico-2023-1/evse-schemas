@@ -21,6 +21,13 @@ git push -u origin branch-name
 
 
 ## CONECTOR
+### Pruebas
+#### Tension
+Para esta prueba se realiza un montaje en paralelo entre una linea y neutro del conector con una fuente de tensión en AC, Como se observa en el siguiente montaje.
+![Uploading montajevoltaje.png…]()
+
+
+## CONTROL PILOT
 El circuito piloto de control es el principal medio de control para garantizar un funcionamiento correcto al conectar un EV/PHEV al EVSE. La señal piloto es el método clave a través del cual un EVSE compatible con J1772 se comunica con un vehículo. La señal piloto se basa en una señal PWM de ±12 V y 1 kHz que se transmite a un vehículo a través del cable de carga. El vehículo puede entonces responder colocando diversas cargas en la línea, afectando a su tensión, que mide el EVSE.
 Esta seccion esta basado en la plantilla [Conector](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector "Conector")
 
