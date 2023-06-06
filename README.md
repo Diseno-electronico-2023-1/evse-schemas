@@ -156,9 +156,6 @@ AMPS  | DUTY CYCLE
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Simulacion/images/schematic.png">
-</p>
-
-<p align="center">
   <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Simulacion/images/simulation.png">
 </p>
 
