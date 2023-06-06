@@ -27,6 +27,41 @@ Para esta prueba se realiza un montaje en paralelo entre una linea y neutro del 
 
 ![montajevoltaje](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/e3151760-9257-4b66-8d34-9814eae60585)
 
+![montajevoltaje2](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/ee67c2b6-122b-4c2d-aa93-b73e22e80ddb)
+
+Se realiza la respectiva verificación de la tensión a la que estará expuesto el conector y se realizan distintas pruebas con diferentes valores de voltaje obteniendo los siguientes resultados.
+
+![00](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/19d34b16-3f0d-4fbd-95ec-39776bd8a159)
+
+![01](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/4b1a411e-3756-4d08-9663-e1f2a84d182b)
+
+![02](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/5418677a-0e67-45c0-8245-8e3b8161a9d3)
+
+![03](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/7204324c-56df-45b2-b15f-c6053519bb1a)
+
+#### Corriente
+En esta prueba se conecto en serie una fuente de corriente como se muestra en la siguiente figura.
+
+![montajecorriente](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/5b951a4b-343f-4e9a-9b92-4de6fb1cd54c)
+
+Se inicio la medicion con 5 A y posteriormente se aumento a los 15 A que están propuestos para el cargador y con la ayuda de una pinza amperimétrica y un osciloscopio se observaron las corrientes suministradas en una escala de 10mV por cada amperio.
+
+![07](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/79ba6fec-0cb1-4b4f-b1c7-8f7ceb47fc50)
+
+![08](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/22e601b4-d1d8-4573-81c5-c534f9afcd81)
+
+#### Aislamiento
+Para determinar la resistencia de aislamiento del conector se utiliza un medidor de resistencia de aislamiento, con los cables aislados entre si se conectan a una linea y al neutro del conector como se observa el montaje en la siguiente figura. La resistencia obtenida fue de 319 Gohm. 
+
+![montajeaislamiento](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/ed20d8f2-1d77-4b19-a47e-3a304317ba95)
+
+Comparando este valor con el dado comercialmente se obtiene una resistencia considerablemente mayor a la descrita en el manual.
+
+Votaje [RMS]  | Corriente [A] | Aislamiento [Gomh]
+------------- | -------------
+121  | 5  | 319
+383  | 15 
+447  | 16
 
 ## CONTROL PILOT
 El circuito piloto de control es el principal medio de control para garantizar un funcionamiento correcto al conectar un EV/PHEV al EVSE. La señal piloto es el método clave a través del cual un EVSE compatible con J1772 se comunica con un vehículo. La señal piloto se basa en una señal PWM de ±12 V y 1 kHz que se transmite a un vehículo a través del cable de carga. El vehículo puede entonces responder colocando diversas cargas en la línea, afectando a su tensión, que mide el EVSE.
