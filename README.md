@@ -24,7 +24,7 @@ git push -u origin branch-name
 ### Pruebas
 #### Tension
 Para esta prueba se realiza un montaje en paralelo entre una linea y neutro del conector con una fuente de tensión en AC, Como se observa en el siguiente montaje.
-![Uploading montajevoltaje.png…]()
+![montajevoltaje](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/e3151760-9257-4b66-8d34-9814eae60585)
 
 
 ## CONTROL PILOT
