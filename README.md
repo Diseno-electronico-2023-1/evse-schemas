@@ -58,7 +58,7 @@ Para determinar la resistencia de aislamiento del conector se utiliza un medidor
 Comparando este valor con el dado comercialmente se obtiene una resistencia considerablemente mayor a la descrita en el manual.
 
 Votaje [RMS]  | Corriente [A] | Aislamiento [Gomh]
-------------- | -------------
+------------- | ------------- | -------------
 121  | 5  | 319
 383  | 15 
 447  | 16
