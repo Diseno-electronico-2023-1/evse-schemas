@@ -59,7 +59,12 @@ Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
 
 ![simulation](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/deecbd8a-70e5-406f-ac1c-a4d636f5dd03)
 
-#### Table PWM - PILOT SIGNAL
+#### J1772 Ciclo de trabajo
+
+El ciclo de trabajo de las señales piloto comunica el límite de corriente que el EVSE es capaz de suministrar al vehículo; el vehículo puede entonces utilizar hasta esa cantidad de corriente para su circuito de carga. Este límite de corriente viene determinada principalmente por los componentes electromecánicos de la EVSE, como conductores, relés contactores y la conexión de servicio. La relación entre el ciclo de trabajo y la corriente se define mediante dos ecuaciones diferentes en función del rango de corriente especificado.
+
+Rango de corriente especificado; para un servicio de 6 a 51 A, es:
+Duty Cycle = Amps / 0.6
 
 AMPS  | DUTY CYCLE
 ------------- | -------------
