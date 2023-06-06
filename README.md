@@ -115,9 +115,13 @@ Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
 4. El vehículo comienza a consumir energía y cambia a la carga de 822-Ω, que baja la tensión a 6 V, señalando al EVSE que la carga ha comenzado.
 5. La mayoría de los vehículos siguen consumiendo pequeñas cantidades de energía en el estado C, incluso cuando están completamente cargados, por lo que el proceso de carga finaliza desenchufando el cable, lo que devuelve la tensión a 12 V. El EVSE mide este proceso y cierra los relés y vuelve al estado A.
 
-![schematic](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/2b02a925-df56-40a1-965b-ab35b09d1547)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Simulacion/images/schematic.png">
+</p>
 
-![simulation](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/deecbd8a-70e5-406f-ac1c-a4d636f5dd03)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Simulacion/images/simulation.png">
+</p>
 
 #### J1772 Ciclo de trabajo
 
@@ -138,13 +142,14 @@ AMPS  | DUTY CYCLE
 ### Control Pilot - PCB
 Esta subseccion esta basado en la plantilla [PCB](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector/ControlPilotPCB-backups)
 
-![pcb2](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/388b68eb-7794-44ec-ab23-544f392cd22e)
-
-![pcb1](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/5aead935-cc50-4a8b-9edb-77d0d74f67f4)
-
-![routing](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/bb78755c-777a-4983-a05c-2d47f261344c)
-
-![schematic](https://github.com/Diseno-electronico-2023-1/evse-schemas/assets/126024376/1d457d81-68a7-4640-a62b-dd5cba44fd54)
+<p align="center">
+  <img align="left" width="460" height="600" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/pcb/images/schematic.png">
+  <p align="center">
+    <img align="right" width="460" height="290" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/pcb/images/routing.png">
+    <img align="right" width="460" height="290" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/pcb/images/pcb2.png">
+  </p>
+  
+</p>
 
 
 
