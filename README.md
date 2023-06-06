@@ -86,7 +86,10 @@ Votaje [RMS]  | Corriente [A] | Aislamiento [Gomh]
 
 ## CONTROL PILOT
 El circuito piloto de control es el principal medio de control para garantizar un funcionamiento correcto al conectar un EV/PHEV al EVSE. La señal piloto es el método clave a través del cual un EVSE compatible con J1772 se comunica con un vehículo. La señal piloto se basa en una señal PWM de ±12 V y 1 kHz que se transmite a un vehículo a través del cable de carga. El vehículo puede entonces responder colocando diversas cargas en la línea, afectando a su tensión, que mide el EVSE.
-Esta seccion esta basado en la plantilla [Conector](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector "Conector")
+El protocolo de señalización ha sido diseñado para la siguiente secuencia de carga.
+
+- El equipo de alimentación señala la presencia de alimentación de entrada de CA
+- El vehículo detecta el enchufe mediante un circuito de proximidad (de este modo, el vehículo puede evitar alejarse mientras está conectado) y puede detectar cuando se pulsa el pestillo para preparar la extracción del enchufe.
 
 Comienzan las funciones del piloto de control (CP)
 
@@ -98,6 +101,8 @@ Comienzan las funciones del piloto de control (CP)
 - El PEV y el equipo de alimentación supervisan continuamente la continuidad de la toma de tierra de seguridad
 - La carga continúa según lo determinado por el PEV
 - La carga puede interrumpirse desconectando el enchufe del vehículo
+
+Esta seccion esta basado en la plantilla [Conector](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector "Conector")
 
 ### Control Pilot - simulación
 Este apartado tiene como carpeta principal [Simulación](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector/Simulacion)
@@ -122,11 +127,15 @@ Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
 5. La mayoría de los vehículos siguen consumiendo pequeñas cantidades de energía en el estado C, incluso cuando están completamente cargados, por lo que el proceso de carga finaliza desenchufando el cable, lo que devuelve la tensión a 12 V. El EVSE mide este proceso y cierra los relés y vuelve al estado A.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Simulacion/images/schematic.png">
+  <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Images_LABE/typical_control_pilot_circuit.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Simulacion/images/simulation.png">
+  <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Images_LABE/control_pilot_signal.png">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https:/https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Images_LABE/IMG_20230311_000830.jpg">
 </p>
 
 #### J1772 Ciclo de trabajo
@@ -147,6 +156,14 @@ AMPS  | DUTY CYCLE
 65  | 90%
 80  | 96%
 </div>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Simulacion/images/schematic.png">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Simulacion/images/simulation.png">
+</p>
 
 ### Control Pilot - PCB
 Esta subseccion esta basado en la plantilla [PCB](https://github.com/Diseno-electronico-2023-1/evse-schemas/tree/Conector/Conector/ControlPilotPCB-backups)
