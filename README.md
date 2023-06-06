@@ -128,14 +128,11 @@ Estado F  | -12 | EVSE no disponible, u otro problema de EVSE
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Images_LABE/typical_control_pilot_circuit.png">
-</p>
-
-<p align="center">
   <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Images_LABE/control_pilot_signal.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https:/https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Images_LABE/IMG_20230311_000830.jpg">
+  <img width="460" height="300" src="https://github.com/Diseno-electronico-2023-1/evse-schemas/blob/Conector/Conector/Images_LABE/IMG_20230311_000830.jpg">
 </p>
 
 #### J1772 Ciclo de trabajo
