@@ -486,52 +486,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "PowerToma",
-        "pattern": "/Potencia*"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "+12*"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "-12*"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "/Micro*"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "Net*"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "+3.3V"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "-12V"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "+12V"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "Display*"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "SW*"
-      },
-      {
-        "netclass": "Signals",
-        "pattern": "Pilot*"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
